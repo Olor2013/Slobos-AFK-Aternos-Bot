@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "klasa-6.aternos.me:34387",
+    "ip": "klasa-6.aternos.me",
     "port": 34387,
     "version": "1.21.4",
     "try-creative": false
